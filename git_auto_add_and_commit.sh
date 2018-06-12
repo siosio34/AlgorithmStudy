@@ -1,4 +1,6 @@
 #!/bin/bash
+[ -e README.md ] && rm README.md
+
 for d in *; do
     if [[ -d $d ]]; then
 		echo -e "## $d" >> README.md
