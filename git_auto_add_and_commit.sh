@@ -9,7 +9,7 @@ for d in *; do
 			echo `git add $d/$file`
 			echo "$d : $file을 커밋합니다."
 			echo `git commit -m "$d : $file - Solve"`
-			echo -e "$d : [$file](https://github.com/siosio34/AlgorithmStudy/blob/master/$d/$file)\n" >> README.md
+			echo -e "- $d : [$file](https://github.com/siosio34/AlgorithmStudy/blob/master/$d/$file)\n" >> README.md
 		done
     fi
 done
