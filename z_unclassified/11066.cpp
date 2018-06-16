@@ -46,7 +46,7 @@ int main() {
 		
 
 		// 탑다운
-		cout << solve(1,  num) << endl;
+		// cout << solve(1,  num) << endl;
 		
 		// 바텀 업
 		// for(int i = 2 ; i<= num ; i++) {
