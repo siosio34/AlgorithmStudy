@@ -6,7 +6,11 @@
 
 - dp : [1010.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1010.cpp)
 
+- dp : [10164.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/10164.cpp)
+
 - dp : [10844.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/10844.cpp)
+
+- dp : [10942.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/10942.cpp)
 
 - dp : [11048.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11048.cpp)
 
@@ -16,9 +20,13 @@
 
 - dp : [11053.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11053.cpp)
 
+- dp : [11054.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11054.cpp)
+
 - dp : [11055.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11055.cpp)
 
 - dp : [11057.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11057.cpp)
+
+- dp : [11066.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11066.cpp)
 
 - dp : [1149.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1149.cpp)
 
@@ -48,6 +56,8 @@
 
 - dp : [1965.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1965.cpp)
 
+- dp : [2011.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2011.cpp)
+
 - dp : [2096.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2096.cpp)
 
 - dp : [2133.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2133.cpp)
@@ -68,13 +78,21 @@
 
 - dp : [2579.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2579.cpp)
 
+- dp : [2631.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2631.cpp)
+
 - dp : [6359.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/6359.cpp)
 
 - dp : [9095.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9095.cpp)
 
+- dp : [9251.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9251.cpp)
+
+- dp : [9252.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9252.cpp)
+
 - dp : [9461.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9461.cpp)
 
 - dp : [9465.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9465.cpp)
+
+- dp : [9507.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9507.cpp)
 
 ## graph
 - graph : [test.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/graph/test.cpp)
