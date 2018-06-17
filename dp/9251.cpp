@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
+#include <vector>
 using namespace std;
 
 long long dp[1002][1002];
@@ -21,6 +22,25 @@ int main() {
 			}
 		}
 	}
-	cout << dp[aLen][bLen] ;
+	cout << dp[aLen][bLen];
+	
+	vector<int> trace;
+	while(dp[aLen][bLen] != 0) {
+		if(dp[aLen][bLen] == dp[aLen][bLen-1]) {
+			bLen--;
+		}
+		else if(dp[aLen][bLen] == dp[aLen-1][bLen])
+			aLen--;
+		else if(dp[aLen][bLen] -1 == dp[aLen-1][bLen-1]) {
+			aLen--;
+			bLen--;
+			trace.push_back(aLen);
+		}
+	}
+	
+	int len = trace.size() -1;
+	for(int i =len ; i >= 0 ; i--) {
+		cout << a[trace[i]];
+	}
 
 }
