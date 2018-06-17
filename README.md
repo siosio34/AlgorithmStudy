@@ -8,6 +8,8 @@
 
 - dp : [10164.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/10164.cpp)
 
+- dp : [1038.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1038.cpp)
+
 - dp : [10844.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/10844.cpp)
 
 - dp : [10942.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/10942.cpp)
@@ -26,6 +28,8 @@
 
 - dp : [11057.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11057.cpp)
 
+- dp : [11060.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11060.cpp)
+
 - dp : [11066.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/11066.cpp)
 
 - dp : [1149.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1149.cpp)
@@ -39,6 +43,8 @@
 - dp : [14501.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/14501.cpp)
 
 - dp : [1463.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1463.cpp)
+
+- dp : [1495.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1495.cpp)
 
 - dp : [1520.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1520.cpp)
 
@@ -60,6 +66,8 @@
 
 - dp : [2096.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2096.cpp)
 
+- dp : [2098.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2098.cpp)
+
 - dp : [2133.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2133.cpp)
 
 - dp : [2156.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2156.cpp)
@@ -72,15 +80,25 @@
 
 - dp : [2225.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2225.cpp)
 
+- dp : [2240.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2240.cpp)
+
 - dp : [2293.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2293.cpp)
 
 - dp : [2294.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2294.cpp)
+
+- dp : [2302.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2302.cpp)
+
+- dp : [2352.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2352.cpp)
 
 - dp : [2579.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2579.cpp)
 
 - dp : [2631.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2631.cpp)
 
+- dp : [5582.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/5582.cpp)
+
 - dp : [6359.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/6359.cpp)
+
+- dp : [9084.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9084.cpp)
 
 - dp : [9095.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/9095.cpp)
 
