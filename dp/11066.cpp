@@ -5,7 +5,26 @@
 using namespace std;
 
 int a[501];
-int dp[501];
+int sum[501];
+int dp[501][501];
+
+int MAX_NUM = 987654321;
+
+int solve(int start,int end) {
+	if(start >= end)
+		return 0;
+	
+	if(dp[start][end] > 0) {
+		return dp[start][end];
+	}
+	
+	dp[start][end] = 987654321;
+	for(int i = start ; i < end; i++) {
+		dp[start][end] = min(dp[start][end], solve(start,i) + solve(i+1,end) + sum[end] - sum[start-1]);
+	}
+	return dp[start][end];
+	
+}
 
 int main() {
 	int t;
@@ -15,27 +34,14 @@ int main() {
 	while(t--) {
 		cin >> n;
 		memset(a,0,sizeof(a));
-		memset(dp,987654321,sizeof(dp));
 		for(int i = 1 ; i <= n ; i++) {
 			scanf("%d",&a[i]);
+			sum[i] = sum[i-1] + a[i];
+			for(int j = 1 ; j <= n ; j++) {
+				dp[i][j] = 0;
+			}
 		}
 		
-		dp[1] = a[1];
-		dp[2] = a[1] + a[2];
-		
-		for(int i = 2 ; i<= num ; i++) {
-			for (int j = i; --j;) {
-				dp[j][i] = 2e9;
-				for(int k = j ; k <= i ; k++) {
-					dp[j][i] = min(dp[j][i], dp[j][k] + dp[k+1][i]);
-				}
-				dp[j][i] += sum[i] - sum[j-1];
-			}		
-		}
-		
-		for(int i = 3 ; i <= n ; i++) {
-			dp[i] = min(2 * (dp[i-1] + a[i]), 2 * (a[i] + a[i-1] +  dp[i-2]));
-		}
-		cout<< dp[n] << endl;
+		cout << solve(1,n) << endl;
 	}
 }
