@@ -9,38 +9,22 @@ int main() {
 	int n;
 	cin >> n;
 	
-	for(int i = 0 ; i < n ; i++) {
+	for(int i = 1 ; i <= n ; i++) {
 		scanf("%d",&a[i]);
 	}
 	
-	int maxNum = 1;
-		
-	for(int i = 0 ; i < n ; i++) {
-		dp[i] = 1;
-		for(int j = 0 ; j < i ; j++) {
-			if(a[i] > a[j] && dp[j] + 1 > dp[i]) {
-				dp[i] = dp[j] + 1;
-			}
-		}
-		maxNum = max(maxNum,dp[i]);
-
+	dp[1] = a[1];
+	int size = 1;
+	int tmp;
+	for(int i = 2; i <= n ; i++) {
+		if(dp[size] < a[i]) {
+			dp[++size] = a[i];
+			continue ;
+ 		}
+		tmp = lower_bound(dp + 1, dp + 1 + size, a[i]) - dp;
+		dp[tmp] = a[i];
 	}
-	cout << maxNum;
+	
+	cout << size << endl;
+	
 }
-
-// #include<stdio.h>
-// #include<algorithm>
-// using namespace std;
-// int n, a[100000], sz;
-// int main() {
-//     scanf("%d", &n);
-//     for (int i = 0; i < n; i++)
-//         scanf("%d", &a[i]);
-//     for (int i = 0; i < n; i++) {
-//         int p = upper_bound(a, a + sz, a[i]) - a;
-//         if (p == sz) sz++;
-//         a[p] = a[i];
-//     }
-//     printf("%d", sz);
-//     return 0;
-// }
