@@ -2,50 +2,40 @@
 #include <algorithm>
 using namespace std;
 
-int check[17];
-int w[17][17];
-int dp[17][17];
-
-int start;
 int n;
+int w[17][17];
+int dp[17][1 << 16 + 1];
 
-int solve(int current,int cityNum) {
+int MAX_VALUE = 987654321;
+
+int solve(int current,int visited) {
 	
-	check[current] = true;
-	if(cityNum == n) {
-		check[current] = false;
-		return w[current][start];
+	if(visited == (1 << n) - 1) {
+		return w[current][0];
 	}
-		
 	
 	int &ret = dp[current][visited];
-	if(ret > 0)
-		return ret;
 	
-	for(int i = 1 ; i <= n ; i++) {
-		if(check[i] == false) {
-			check[i] = true;
-		}
+	if(ret != 0) return ret;
+	ret = MAX_VALUE;
+	
+	for(int i = 0 ; i <= n ; i++) {
+		if(visited & (1 << i) || w[current][i] == 0)
+			continue;
+		ret = min(ret, solve(i, visited | (1 << i)) + w[current][i]);
+		
 	}
-	
+	return ret;
 }
 int main() {
 
 	cin >> n;
 	
-	for(int i = 1 ; i <= n ; i++) {
-		for(int j = 1; j <= n ; j++) {
+	for(int i = 0 ; i < n ; i++) {
+		for(int j = 0; j < n ; j++) {
 			cin >> w[i][j];
 		}
 	}
 	
-	int lowNum = 0;
-	
-	for(int i = 1 ; i <= n ; i++) {
-		start = i;
-		lowNum = min(lowNum, solve(i,1));
-	}
-	
-	cout << lowNum;
-	
+	cout << solve(0, 1) << endl;
 }
