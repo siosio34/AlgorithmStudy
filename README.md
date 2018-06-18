@@ -76,6 +76,8 @@
 
 - dp : [2167.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2167.cpp)
 
+- dp : [2169.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2169.cpp)
+
 - dp : [2193.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2193.cpp)
 
 - dp : [2225.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/2225.cpp)
