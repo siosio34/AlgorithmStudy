@@ -1,5 +1,13 @@
 ## algospot
-- algospot : [picnic.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/picnic.cpp)
+- algospot : [BOARDCOVER.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/BOARDCOVER.cpp)
+
+- algospot : [CLOCKSYNC.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/CLOCKSYNC.cpp)
+
+- algospot : [FENCE.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/FENCE.cpp)
+
+- algospot : [Picnic.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/Picnic.cpp)
+
+- algospot : [QUARDTREE.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/QUARDTREE.cpp)
 
 ## bfs
 ## dfs
