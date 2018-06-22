@@ -3,11 +3,17 @@
 
 - algospot : [CLOCKSYNC.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/CLOCKSYNC.cpp)
 
+- algospot : [FANMEETING.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/FANMEETING.cpp)
+
 - algospot : [FENCE.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/FENCE.cpp)
+
+- algospot : [JUMPGAME.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/JUMPGAME.cpp)
 
 - algospot : [Picnic.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/Picnic.cpp)
 
 - algospot : [QUARDTREE.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/QUARDTREE.cpp)
+
+- algospot : [WILDCARD.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/WILDCARD.cpp)
 
 ## bfs
 ## dfs
