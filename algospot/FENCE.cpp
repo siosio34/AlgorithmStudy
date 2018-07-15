@@ -16,7 +16,13 @@ using namespace std;
 // 	return ret;
 // }
 
-int solve(int left, int right) {
+int solve(int left, int right, const vector<int>& height) {
+	if(left == right)
+		return height[left];
+	
+	int mid = (left + right) / 2;
+	
+	return 0;
 	
 }
 
@@ -30,6 +36,7 @@ int main() {
 		vector<int> height(n,0);
 		for(int i = 0 ; i < n ; i++) {
 			cin >> height[i];
+		}
 		// }
 		// cout << solve(height) << endl;
 	}
