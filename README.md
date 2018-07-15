@@ -16,7 +16,17 @@
 - algospot : [WILDCARD.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/WILDCARD.cpp)
 
 ## bfs
+- bfs : [1260.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/bfs/1260.cpp)
+
 ## dfs
+- dfs : [10451.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dfs/10451.cpp)
+
+- dfs : [11724.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dfs/11724.cpp)
+
+- dfs : [1260.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dfs/1260.cpp)
+
+- dfs : [1707.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dfs/1707.cpp)
+
 ## dp
 - dp : [1003.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/dp/1003.cpp)
 
@@ -160,9 +170,15 @@
 
 - sort : [10989.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/10989.cpp)
 
+- sort : [11004.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/11004.cpp)
+
 - sort : [11650.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/11650.cpp)
 
 - sort : [11651.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/11651.cpp)
+
+- sort : [11652.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/11652.cpp)
+
+- sort : [1377.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/1377.cpp)
 
 ## stack
 - stack : [10799.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/stack/10799.cpp)
