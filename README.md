@@ -140,8 +140,39 @@
 ## math
 - math : [test.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/math/test.cpp)
 
+## queue
+- queue : [1158.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/queue/1158.cpp)
+
+## scpc
+- scpc : [scpc_1.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/scpc/scpc_1.cpp)
+
+- scpc : [scpc_2.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/scpc/scpc_2.cpp)
+
+- scpc : [scpc_5.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/scpc/scpc_5.cpp)
+
 ## search
 - search : [test.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/test.cpp)
+
+## sort
+- sort : [10814.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/10814.cpp)
+
+- sort : [10825.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/10825.cpp)
+
+- sort : [10989.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/10989.cpp)
+
+- sort : [11650.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/11650.cpp)
+
+- sort : [11651.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/11651.cpp)
+
+## stack
+- stack : [10799.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/stack/10799.cpp)
+
+- stack : [1406.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/stack/1406.cpp)
+
+- stack : [9012.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/stack/9012.cpp)
+
+## string
+- string : [2743.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/string/2743.cpp)
 
 ## z_unclassified
 - z_unclassified : [1000.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/z_unclassified/1000.cpp)
