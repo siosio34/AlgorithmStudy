@@ -18,6 +18,7 @@ int change(int num,int index, int digit) {
 bool prime[10001];
 bool check[10001];
 int d[10001];
+
 int main() {
 	for(int i =2 ; i <= 10000 ; i++) {
 		if(prime[i] == false) {
