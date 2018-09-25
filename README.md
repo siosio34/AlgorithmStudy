@@ -174,17 +174,35 @@
  [문제링크](https://www.acmicpc.net/problem/scpc_5): [소스링크 scpc_5.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/scpc/scpc_5.cpp)
 
 ## search
+ [문제링크](https://www.acmicpc.net/problem/10819): [소스링크 10819.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/10819.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/10971): [소스링크 10971.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/10971.cpp)
+
  [문제링크](https://www.acmicpc.net/problem/10972): [소스링크 10972.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/10972.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/10973): [소스링크 10973.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/10973.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/10974): [소스링크 10974.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/10974.cpp)
 
+ [문제링크](https://www.acmicpc.net/problem/1107): [소스링크 1107.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/1107.cpp)
+
  [문제링크](https://www.acmicpc.net/problem/11723): [소스링크 11723.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/11723.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/1476): [소스링크 1476.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/1476.cpp)
 
+ [문제링크](https://www.acmicpc.net/problem/1525): [소스링크 1525.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/1525.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1697): [소스링크 1697.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/1697.cpp)
+
  [문제링크](https://www.acmicpc.net/problem/1722): [소스링크 1722.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/1722.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1963): [소스링크 1963.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/1963.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/6603): [소스링크 6603.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/6603.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/9019): [소스링크 9019.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/9019.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/9095): [소스링크 9095.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/9095.cpp)
 
 ## sort
  [문제링크](https://www.acmicpc.net/problem/10814): [소스링크 10814.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/sort/10814.cpp)
