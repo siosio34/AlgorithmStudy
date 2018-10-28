@@ -30,7 +30,11 @@
 ## binary_search
  [문제링크](https://www.acmicpc.net/problem/1654): [소스링크 1654.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/binary_search/1654.cpp)
 
+ [문제링크](https://www.acmicpc.net/problem/1939): [소스링크 1939.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/binary_search/1939.cpp)
+
  [문제링크](https://www.acmicpc.net/problem/2110): [소스링크 2110.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/binary_search/2110.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/2805): [소스링크 2805.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/binary_search/2805.cpp)
 
 ## data_structure
  [문제링크](https://www.acmicpc.net/problem/11279): [소스링크 11279.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/data_structure/11279.cpp)
@@ -183,6 +187,25 @@
 
 ## graph
  [문제링크](https://www.acmicpc.net/problem/test): [소스링크 test.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/graph/test.cpp)
+
+## greedy
+ [문제링크](https://www.acmicpc.net/problem/10610): [소스링크 10610.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/10610.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1080): [소스링크 1080.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/1080.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/11047): [소스링크 11047.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/11047.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/11399): [소스링크 11399.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/11399.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1541): [소스링크 1541.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/1541.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1744): [소스링크 1744.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/1744.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1783): [소스링크 1783.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/1783.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1931): [소스링크 1931.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/1931.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/2875): [소스링크 2875.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/greedy/2875.cpp)
 
 ## math
  [문제링크](https://www.acmicpc.net/problem/test): [소스링크 test.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/math/test.cpp)
