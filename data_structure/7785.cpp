@@ -2,6 +2,7 @@
 #include <set>
 #include <string>
 #include <algorithm>
+#include <cstdio>
 using namespace std;
 
 int main() {
@@ -14,7 +15,7 @@ int main() {
 	string name, op;
 	for(int i = 0 ; i < n ; i++) {
 		cin >> name >> op;
-		
+	
 		if(op == "enter") {
 			s.insert(name);
 		} else {
@@ -24,8 +25,8 @@ int main() {
 	}
 	
 	set<string>::reverse_iterator iter;
-	for (iter = s.rbegin(); iter != s.rend(); iter++) 
-		cout << *iter << endl;
+	for (auto it = s.rbegin(); it != s.rend(); it++) 
+		cout << *it << '\n';
 	
 	
 }
