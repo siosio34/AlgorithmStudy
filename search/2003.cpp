@@ -18,17 +18,21 @@ int main() {
 	int sum = v[0];
 	int answer = 0;
 	
-	while(left <= right && right < n) {
+	while(left < n && right < n) {
 		if(sum == m) {
-			
+			right += 1;
+			sum += v[right];
+			answer += 1;
 		} else if(sum < m) {
-			
+			right += 1;
+			sum += v[right];
 		} else if(sum > m) {
-			
+			sum -= v[left];
+			left += 1;
 		}
 	}
 	
-	
+	cout << answer;
 	
 	
 }
