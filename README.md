@@ -16,6 +16,21 @@
 
  [문제링크](https://www.acmicpc.net/problem/WILDCARD): [소스링크 WILDCARD.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/algospot/WILDCARD.cpp)
 
+## basic
+ [문제링크](https://www.acmicpc.net/problem/1019): [소스링크 1019.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/1019.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/11659): [소스링크 11659.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/11659.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/12904): [소스링크 12904.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/12904.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/14500): [소스링크 14500.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/14500.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/14503): [소스링크 14503.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/14503.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/14890): [소스링크 14890.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/14890.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/15661): [소스링크 15661.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/15661.cpp)
+
 ## bfs
  [문제링크](https://www.acmicpc.net/problem/1260): [소스링크 1260.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/bfs/1260.cpp)
 
@@ -263,9 +278,13 @@
 
  [문제링크](https://www.acmicpc.net/problem/2003): [소스링크 2003.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/2003.cpp)
 
+ [문제링크](https://www.acmicpc.net/problem/2143): [소스링크 2143.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/2143.cpp)
+
  [문제링크](https://www.acmicpc.net/problem/2251): [소스링크 2251.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/2251.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/2580): [소스링크 2580.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/2580.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/2632): [소스링크 2632.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/2632.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/6603): [소스링크 6603.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/search/6603.cpp)
 
