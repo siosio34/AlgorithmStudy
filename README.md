@@ -21,13 +21,19 @@
 
  [문제링크](https://www.acmicpc.net/problem/11659): [소스링크 11659.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/11659.cpp)
 
+ [문제링크](https://www.acmicpc.net/problem/12851): [소스링크 12851.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/12851.cpp)
+
  [문제링크](https://www.acmicpc.net/problem/12904): [소스링크 12904.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/12904.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/13913): [소스링크 13913.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/13913.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/14500): [소스링크 14500.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/14500.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/14503): [소스링크 14503.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/14503.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/14890): [소스링크 14890.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/14890.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/1525): [소스링크 1525.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/1525.cpp)
 
  [문제링크](https://www.acmicpc.net/problem/15661): [소스링크 15661.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/basic/15661.cpp)
 
@@ -229,6 +235,15 @@
 
 ## queue
  [문제링크](https://www.acmicpc.net/problem/1158): [소스링크 1158.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/queue/1158.cpp)
+
+## samsung
+ [문제링크](https://www.acmicpc.net/problem/14499): [소스링크 14499.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/samsung/14499.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/14500): [소스링크 14500.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/samsung/14500.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/14501): [소스링크 14501.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/samsung/14501.cpp)
+
+ [문제링크](https://www.acmicpc.net/problem/3190): [소스링크 3190.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/samsung/3190.cpp)
 
 ## scpc
  [문제링크](https://www.acmicpc.net/problem/scpc_1): [소스링크 scpc_1.cpp](https://github.com/siosio34/AlgorithmStudy/blob/master/scpc/scpc_1.cpp)
